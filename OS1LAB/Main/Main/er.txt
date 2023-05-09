@@ -1,0 +1,4 @@
+re.bin report:
+1 r 24 hours $240000
+2 rf 12 hours $120000
+1 rwf 321 hours $3.21e+06

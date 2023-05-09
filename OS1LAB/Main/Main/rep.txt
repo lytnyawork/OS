@@ -1,0 +1,4 @@
+fre.bin report:
+1 Kirill 123 hours $861
+3 igor 125 hours $875
+2 vano 123 hours $861

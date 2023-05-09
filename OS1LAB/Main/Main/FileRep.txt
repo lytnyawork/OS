@@ -1,0 +1,3 @@
+FileEmp.bin report:
+1 Kirill 160 hours $2400
+2 Igor 124 hours $1860
